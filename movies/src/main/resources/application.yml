@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: movies
+  data:
+    mongodb:
+      database: movie-api-db
+    uri: mongodb+srv://hirdesh:hirdesh123@movieapi.qauyz.mongodb.net/
+server:
+  port: 8088
